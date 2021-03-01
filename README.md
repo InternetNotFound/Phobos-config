@@ -6,3 +6,5 @@ press win key + r
 then type C:\Users\Lenovo\AppData\Roaming\.minecraft\phobos\config\Combat
 then replace the config with the last one
 and now have a good pvp and good day.
+It was from my friend apollo #4907
+he was the one that had the config not me
